@@ -8,4 +8,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: like to study philosophy and playing games on free time
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+
 <img src="octocat-1732123999813.png" width="300" heigh="600">
