@@ -1,8 +1,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
-# Welcome!
+# Hello! I'm Jhonatan!
 
-| <img src="octocat-1732123999813.png" width="300" heigh="600"> | • Hello, I'm Jhonatan! <br> • Brazilian, 27 years old <br> • I'm from São Paulo, SP <br> • Studiyng to be a FullStack Developer <br> • Currently, I'm a Senior Electronic Technician  |
+| <img src="octocat-1732123999813.png" width="300" heigh="600"> |• Brazilian, 27 years old <br> • I'm from São Paulo, SP <br> • Studiyng to be a FullStack Developer <br> • Currently, I'm a Senior Electronic Technician  |
 |-|:-|
 
 
