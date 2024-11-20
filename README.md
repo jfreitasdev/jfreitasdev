@@ -6,4 +6,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: like to study philosophy and playing games on free time
 
-<img src="/assets/jfreitasdev/octocat-1732123999813.png">
+<img src="/jfreitasdev/octocat-1732123999813.png">
