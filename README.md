@@ -5,10 +5,5 @@
 - 📫 How to reach me?  https://www.linkedin.com/in/jhonatan-silva-de-freitas-21474612b/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: like to study philosophy and playing games on free time
-<div>
-<a href="https://github.com/jfreitasdev">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfreitasdev&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jfreitasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <img src="octocat-1732123999813.png" width="300" heigh="600">
