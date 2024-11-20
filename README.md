@@ -1,3 +1,5 @@
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ 
 - 👋 Hi, I’m @jfreitasdev, Jhonatan Freitas, or, just Jhow
 - 👀 I’m interested in studying to become a fullstack developer
 - 🌱 I’m currently learning JavaScript
