@@ -6,7 +6,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: like to study philosophy and playing games on free time
 
-<!---
-jfreitasdev/jfreitasdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="/assets/jfreitasdev/octocat-1732123999813.png">
