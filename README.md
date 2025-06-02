@@ -2,7 +2,7 @@
 
 # Hello! I'm Jhonatan!
 
-| <img src="octocat-1732123999813.png" width="300" heigh="600"> |• Brazilian, 28 years old <br> • I'm from São Paulo, SP <br> • Studying to be a FullStack Developer <br> • Currently, I'm a Senior Electronic Technician  |
+| <img src="ChatGPT Image 2 de jun. de 2025, 15_36_28.png" width="200" heigh="400"> |• Brazilian, 28 years old <br> • I'm from São Paulo, SP <br> • Studying to be a FullStack Developer <br> • Currently, I'm a Senior Electronic Technician  |
 |-|:-|
 
 ## Currently Learning
