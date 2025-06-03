@@ -2,7 +2,7 @@
 
 # Hello! I'm Jhonatan!
 
-| <img src="ChatGPT Image 2 de jun. de 2025, 15_36_28.png" width="200" heigh="400"> |• Brazilian, 28 years old <br> • I'm from São Paulo, SP <br> • Studying to be a FullStack Developer <br> • Currently, I'm a Senior Electronic Technician <br> • Apple Certified Technician since 2016  |  
+| <img src="ChatGPT Image 2 de jun. de 2025, 15_36_28.png" width="200" heigh="400"> |• Brazilian, 28 years old <br> • I'm from São Paulo, SP <br> • Studying to be a Backend Java Developer <br> • Currently, I'm a Senior Electronic Technician <br> • Apple Certified Technician since 2016  |  
 |-|:-|
 
 ## Currently Learning
